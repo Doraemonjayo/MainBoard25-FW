@@ -1,6 +1,6 @@
 # MainBoard25-FW
 プログラムは主に`./main/`フォルダ内にあります。
-`./main/main_app.c`には、`void setup()`関数と`void loop()`関数があります。
+[./main/main_app.c](main/main_app.c)には、`void setup()`関数と`void loop()`関数があります。
 
 ## `./main/`以外の変更点
 ### ./Core/Src/main.c
